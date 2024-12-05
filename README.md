@@ -22,10 +22,10 @@ This is a basic electronic product website created using **HTML**, **CSS**, and 
 
 ├── 📁 img
 
-│ └── Home
-│ └── Other
-│ └── Product
-│ └── Second Product
+   │ └── Home
+   │ └── Other
+   │ └── Product
+   │ └── Second Product
 
 │ └── Electronic.css
 
