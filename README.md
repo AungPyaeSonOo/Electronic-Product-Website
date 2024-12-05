@@ -20,27 +20,36 @@ This is a basic electronic product website created using **HTML**, **CSS**, and 
 
 📦 electronic-product-website 
 
-├── index.html
+├── 📁 img
 
-     # Home page ├── products.html # Product listing page ├── contact.html # Contact page └── README.md # Project documentation
-     
-├── styles.css
+│ └── Home
+│ └── Other
+│ └── Product
+│ └── Second Product
 
-     # Custom CSS for additional styling 
-     
-├── images 
+│ └── Electronic.css
 
-  │ └── product-images/
-  
-     # Images of electronic products
+│ └── Electronic.html
 
-
+   
 ## How to Use
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/AungPyaeSonOo/electronic-product-website.git
 
+
+## Learnings
+
+This project is a hands-on exercise to learn:
+
+- HTML Basics: Structuring web content.
+- CSS Basics: Adding styles for a polished look.
+- Bootstrap: Utilizing responsive design and prebuilt components.
+
+## Contributions
+
+- Contributions are welcome! Feel free to fork the repository and submit a pull request
 
 ### Customization Steps:
 
