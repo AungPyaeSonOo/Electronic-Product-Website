@@ -21,11 +21,17 @@ This is a basic electronic product website created using **HTML**, **CSS**, and 
 📦 electronic-product-website 
 
 ├── index.html
+
      # Home page ├── products.html # Product listing page ├── contact.html # Contact page └── README.md # Project documentation
-├── styles.css 
+     
+├── styles.css
+
      # Custom CSS for additional styling 
+     
 ├── images 
+
   │ └── product-images/
+  
      # Images of electronic products
 
 
@@ -33,7 +39,7 @@ This is a basic electronic product website created using **HTML**, **CSS**, and 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/electronic-product-website.git
+   git clone https://github.com/AungPyaeSonOo/electronic-product-website.git
 
 
 ### Customization Steps:
